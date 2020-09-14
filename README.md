@@ -13,7 +13,7 @@
 
 ## Project Details
 - Project Objecrtives: The product/project itself is intended to entertain. The phrases of the project are planning, pre-production, production, testing, and launch. The learning objectives are to improve my own skill with coding and to provide myself with additional experience in independent game development.
-- Analysis Report: Link coming soon!
+- Analysis Report: Link coming soon! [Link](https://tkfromthe90s.github.io/TKfromthe90s.github.io-analysisreport/)
 - Weekly Time Log Reports: Link coming soon!
 - Progress Reports: Link coming soon!
 - Most Meaningful Objective Report: Link coming soon!
