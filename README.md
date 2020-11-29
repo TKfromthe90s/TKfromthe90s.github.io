@@ -15,7 +15,7 @@
 
 ## Project Details
 - Project Objectives: The product/project itself is intended to entertain. The phrases of the project are planning, pre-production, production, testing, and launch. The learning objectives are to improve my own skill with coding and to provide myself with additional experience in independent game development.
-- [Analysis Report](https://tkfromthe90s.github.io/TKfromthe90s.github.io-analysisreport/)
+- [Analysis Report](https://tkfromthe90s.github.io/TKfromthe90s.github.io-analysisreport/) 
 - [Weekly Time Log Reports](https://tkfromthe90s.github.io/TKfromthe90s.github.io-weekly-time-logs/)
 - [Progress Reports](https://tkfromthe90s.github.io/TKfromthe90s.github.io-progress-reports/)
 - [Most Meaningful Objective Report](https://tkfromthe90s.github.io/TKfromthe90s.github.io-most-meaningful-objective-report/)
