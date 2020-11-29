@@ -7,6 +7,8 @@
 - The overall purpose of this project is to create a small, simple, and unique video game, within the provided time period. 
 - The project outcomes are to ensure rthe project functions as a laptop or desktop executable file, remains bug-free, provides enjoyment to those who donwload and play it, and above all, fulfills the requirements of this project.
 - Features include engaging visuals and enjoyable gameplay.
+- Project Name: Untitled Video Game
+- Project Client: Professor Cheryl Garvin
 
 ## Project Deliverables
 - The project deliverables will include the readme file, a user manual, and the desktop executable file itself.
